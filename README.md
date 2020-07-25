@@ -72,7 +72,7 @@ As this software requires 	`CRON` for mailing , it needs to be setup using `daem
 
 `*/19 * * * * /usr/local/bin/php MailSend3.php >/dev/null 2>&1`
 
-`*/20 * * * * /usr/local/bin/php /MailSend4.php >/dev/null 2>&1`
+`*/20 * * * * /usr/local/bin/php MailSend4.php >/dev/null 2>&1`
 
 Parameters of the CRONS can be changed to emit `logs` regarding to mail status log.
 Additional settings for `logs` can also be setup and hosted against the `mailLogs` folder in the `root` directory.
