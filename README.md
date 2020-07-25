@@ -9,6 +9,7 @@ This Repository contains files to install the newsletter application on any desi
  - Newsletter Admin Panel for creation of Newsletters + Newsletter Templates
 
 
+
 # Understanding the Folder Structure
 The `root`of the repository contains the files to the landing page. `index.php` is the starting point of the application.  other files in the `root` level are used to run the functionalities of subscription and unsubscription of newsletter clients.
 
@@ -17,6 +18,7 @@ The newsletter admin panel application lies in the `newsletter-admin` folder . T
 Another important folder in the `root` level is the `yii` folder . This should never be altered as it may cause instabilities in the admin application.
 
  
+
 
 # Technical Details
 
