@@ -42,6 +42,7 @@ This software has been coded using the following :
 The database dump is available in the `root` level of the repository . 
 
 > File name / Link of the Database Dump
+
 > [db-dump.zip](https://github.com/turnerbutlerdev/newsletter-tb/blob/master/db-dump.zip)
 
 . This file has a complete dump containing all the relevant `sql` files required for serving the application on the intended host.
