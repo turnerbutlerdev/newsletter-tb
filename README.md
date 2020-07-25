@@ -59,9 +59,9 @@ This Database needs to be installed before the application is tried to be hosted
   -  Clone the repository in the server using `git clone` command. 
   -  Change the Database settings to connect the database to the
     application.
-    -  Setup required file rights on the server for the `logs` and `runtime`.
-    - Once the above settings are done you can visit the host using `<hostname>/newsletter-admin`. There might be required changes which needs to be done to start the application.
-    - The base landing page with subscription and unsubscription functionalities will be hosted against `<hostname>`.
+  -  Setup required file rights on the server for the `logs` and `runtime`.
+  - Once the above settings are done you can visit the host using `<hostname>/newsletter-admin`. There might be required changes which needs to be done to start the application.
+  - The base landing page with subscription and unsubscription functionalities will be hosted against `<hostname>`.
 
 As this software requires 	`CRON` for mailing , it needs to be setup using `daemon` or `root` permissions on the server. 
 
